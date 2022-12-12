@@ -34,8 +34,8 @@ Mobile Version
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontmentor.io/solutions](https://www.frontendmentor.io/solutions/product-preview-card-component-wyFzuFT1mo)
+- Live Site URL: [product-preview-card-vercel](https://product-preview-card-86k5gif5j-guidofamula.vercel.app/)
 
 ## My process
 
