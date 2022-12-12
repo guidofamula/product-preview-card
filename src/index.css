@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Primary */
+    --dark-cyan: 158deg 36% 37%;
+    --cream: 30deg 38% 92%;
+    /* Netral */
+    --very-dark-blue: 212deg 21% 14%;
+    --dark-grayish-blue: 228deg 12% 48%;
+    --white: 0deg 0% 100%;
+  }
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("./assets/fonts/Montserrat/Montserrat-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: "Fraunces";
+  src: url("./assets/fonts/Fraunces/Fraunces-VariableFont_SOFT,WONK,opsz,wght.ttf");
+}
